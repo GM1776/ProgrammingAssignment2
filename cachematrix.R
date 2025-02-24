@@ -44,7 +44,7 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-#Test case
+#Test case:
 # Create a square invertible matrix
 mat <- matrix(c(4, 3, 3, 2), nrow = 2, ncol = 2)
 # Create the special "matrix" object
